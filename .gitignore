@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data
+loan_drift_detection/data/live_stream.csv
+
+# Model
+*.joblib
+loan_drift_detection/model/baseline_stats.csv
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
